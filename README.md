@@ -14,8 +14,6 @@
   <img align="center" alt="Will-K8s" height="80" width="80" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg">
   <img align="center" alt="Will-K8s" height="80" width="100" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
   <img align="center" alt="Will-K8s" height="80" width="100" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg">
-
-  https://www.vectorlogo.zone/logos/golang/golang-official.svg
                                                                                                                             
                                                                                                                                     
                                                                                                                                           
